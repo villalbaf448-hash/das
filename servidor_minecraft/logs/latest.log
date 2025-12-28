@@ -1,0 +1,211 @@
+[21:25:07] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.9+10-Ubuntu-124.04; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[21:25:07] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[21:25:07] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[21:25:07] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
+[21:25:07] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
+ - HomePlugin (0.8.5-main-SNAPSHOT), MythicMobs (5.11.0-86ca150e), WorldEdit (7.3.5+6880-8ba3d89)
+[21:25:11] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:25:13] [ServerMain/INFO]: Loaded 1290 recipes
+[21:25:13] [ServerMain/INFO]: Loaded 1399 advancements
+[21:25:13] [Server thread/INFO]: Starting minecraft server version 1.21
+[21:25:13] [Server thread/INFO]: Loading properties
+[21:25:13] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[21:25:14] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[21:25:14] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:25:14] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:25:15] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[21:25:15] [Server thread/INFO]: Default game type: SURVIVAL
+[21:25:15] [Server thread/INFO]: Generating keypair
+[21:25:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:25:15] [Server thread/INFO]: Using epoll channel type
+[21:25:15] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[21:25:15] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[21:25:15] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loading 4 libraries... please wait
+[21:25:16] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/das/servidor_minecraft/libraries/net/kyori/adventure-api/4.16.0/adventure-api-4.16.0.jar
+[21:25:16] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/das/servidor_minecraft/libraries/net/kyori/adventure-key/4.16.0/adventure-key-4.16.0.jar
+[21:25:16] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/das/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[21:25:16] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/das/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[21:25:16] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/das/servidor_minecraft/libraries/org/jetbrains/annotations/24.1.0/annotations-24.1.0.jar
+[21:25:16] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/das/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.2/adventure-platform-bukkit-4.3.2.jar
+[21:25:16] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/das/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.2/adventure-platform-api-4.3.2.jar
+[21:25:16] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/das/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.2/adventure-text-serializer-bungeecord-4.3.2.jar
+[21:25:16] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/das/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.13.1/adventure-text-serializer-legacy-4.13.1.jar
+[21:25:16] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/das/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
+[21:25:16] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/das/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[21:25:16] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/das/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.2/adventure-platform-facet-4.3.2.jar
+[21:25:16] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/das/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.2/adventure-platform-viaversion-4.3.2.jar
+[21:25:16] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/das/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.16.0/adventure-text-minimessage-4.16.0.jar
+[21:25:16] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/das/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.16.0/adventure-text-serializer-gson-4.16.0.jar
+[21:25:16] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/das/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-json/4.16.0/adventure-text-serializer-json-4.16.0.jar
+[21:25:16] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/das/servidor_minecraft/libraries/net/kyori/option/1.0.0/option-1.0.0.jar
+[21:25:16] [Server thread/INFO]: [SpigotLibraryLoader] [MythicMobs] Loaded library /workspaces/das/servidor_minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+[21:25:16] [Server thread/INFO]: [HomePlugin] Loading server plugin HomePlugin v0.8.5-main-SNAPSHOT
+[21:25:16] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.5+6880-8ba3d89
+[21:25:18] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@522f0dac]
+[21:25:18] [Server thread/INFO]: [MythicMobs] Loading server plugin MythicMobs v5.11.0-86ca150e
+[21:25:18] [Server thread/INFO]: [LumineUtils] (io.lumine.mythic.bukkit.utils.) is bound to plugin MythicMobs - io.lumine.mythic.bukkit.MythicBukkit
+[21:25:18] [Server thread/INFO]: [MythicMobs] §x§f§f§0§0§0§0M§x§f§f§6§6§0§0y§x§f§f§c§c§0§0t§x§c§b§f§f§0§0h§x§6§5§f§f§0§0i§x§0§0§f§f§0§0c§x§0§0§f§f§6§6 §x§0§0§f§f§c§bE§x§0§0§c§b§f§fn§x§0§0§6§5§f§fa§x§0§0§0§0§f§fb§x§6§6§0§0§f§fl§x§c§c§0§0§f§fe§x§f§f§0§0§c§cd§x§f§f§0§0§6§6!
+[21:25:18] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:25:18] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.5+6880-8ba3d89
+[21:25:18] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[21:25:18] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[21:25:19] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21.PaperweightAdapter as the Bukkit adapter
+[21:25:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:25:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:25:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:25:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:25:20] [Server thread/INFO]: Preparing level "world"
+[21:25:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:25:22] [Server thread/INFO]: Time elapsed: 983 ms
+[21:25:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:25:22] [Server thread/INFO]: Time elapsed: 362 ms
+[21:25:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:25:22] [Server thread/INFO]: Time elapsed: 120 ms
+[21:25:22] [Server thread/INFO]: [HomePlugin] Enabling HomePlugin v0.8.5-main-SNAPSHOT
+[21:25:23] [Server thread/INFO]: [HomePlugin] Vault not found. Economy features disabled.
+[21:25:23] [Server thread/WARN]: [HomePlugin] PlaceholderAPI not installed. Placeholders disabled.
+[21:25:23] [Server thread/INFO]: [HomePlugin] Redis disabled in config. Skipping Redis setup.
+[21:25:23] [Server thread/INFO]: [HomePlugin] Using YAML storage.
+[21:25:23] [Server thread/INFO]: [HomePlugin] Registering Homes...
+[21:25:23] [Server thread/INFO]: [HomePlugin] Registering Spawns...
+[21:25:23] [Server thread/INFO]: [HomePlugin] Registering commands...
+[21:25:23] [Server thread/INFO]: [HomePlugin] Registering events...
+[21:25:23] [Server thread/WARN]: [HomePlugin] No plugin extensions detected.
+[21:25:23] [Server thread/INFO]: [HomePlugin] ------------------------------------------------------
+[21:25:23] [Server thread/INFO]: [HomePlugin] HomePlugin started successfully!
+[21:25:23] [Server thread/INFO]: [HomePlugin] Language: FRENCH
+[21:25:23] [Server thread/INFO]: [HomePlugin] Storage: YAML
+[21:25:23] [Server thread/INFO]: [HomePlugin] ------------------------------------------------------
+[21:25:23] [Server thread/INFO]: [MythicMobs] Enabling MythicMobs v5.11.0-86ca150e
+[21:25:23] [Server thread/INFO]: [MythicMobs] Loading MythicMobs for Paper (MC: 1.21.0)...
+[21:25:23] [Server thread/INFO]: [MythicMobs] The server is running Paper; enabled Paper exclusive functionality
+[21:25:28] [Server thread/INFO]: [MythicMobs] Loading Packs...
+[21:25:29] [Server thread/INFO]: [MythicMobs] Loading Items...
+[21:25:29] [Server thread/INFO]: [MythicMobs] Loading Item Groups...
+[21:25:29] [Server thread/INFO]: [MythicMobs] All items loaded after 83ms!
+[21:25:29] [Server thread/INFO]: [MythicMobs] Loading Skills...
+[21:25:29] [Server thread/INFO]: [MythicMobs] Loading Drop Tables...
+[21:25:29] [Server thread/INFO]: [MythicMobs] Loading Random Spawns...
+[21:25:29] [Server thread/INFO]: [MythicMobs] Loading Spawn Blocks...
+[21:25:29] [Server thread/INFO]: [MythicMobs] Second passes loaded after 81ms!
+[21:25:29] [Server thread/INFO]: [MythicMobs] ✓ Loaded 8 mobs.
+[21:25:29] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 vanilla mob overrides.
+[21:25:29] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob stacks.
+[21:25:29] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 skills.
+[21:25:29] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 random spawns.
+[21:25:29] [Server thread/INFO]: [MythicMobs] ✓ Loaded 3 mythic items.
+[21:25:29] [Server thread/INFO]: [MythicMobs] ✓ Loaded 2 drop tables.
+[21:25:29] [Server thread/INFO]: [MythicMobs] ✓ Loaded 0 mob spawners.
+[21:25:29] [Server thread/INFO]: [MythicMobs] MythicMobs configuration file loaded successfully.
+[21:25:30] [Server thread/INFO]: [MythicMobs] Started up bStats Metrics
+[21:25:30] [Server thread/INFO]: [MythicMobs] ✓ MythicMobs v5.11.0 ( build 86ca150e ) has been successfully loaded!
+[21:25:30] [Server thread/INFO]: [spark] Starting background profiler...
+[21:25:30] [Server thread/INFO]: Done preparing level "world" (10.269s)
+[21:25:30] [Server thread/INFO]: Running delayed init tasks
+[21:25:30] [Server thread/INFO]: Done (24.678s)! For help, type "help"
+[21:25:30] [Server thread/INFO]: Timings Reset
+[21:28:30] [User Authenticator #0/INFO]: UUID of player pepito270624 is 8f88a550-05ca-32d4-8251-d545da5f2ce5
+[21:28:32] [Server thread/INFO]: [HomePlugin] [STDOUT] Loading home 'casita' for player pepito270624 into cache.
+[21:28:32] [Server thread/WARN]: Nag author(s): '[fuzeblocks]' of 'HomePlugin v0.8.5-main-SNAPSHOT' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[21:28:32] [Server thread/INFO]: [HomePlugin] [STDOUT] Loading home 'portal' for player pepito270624 into cache.
+[21:28:32] [Server thread/INFO]: [HomePlugin] [STDOUT] Loading home 'cas' for player pepito270624 into cache.
+[21:28:32] [Server thread/INFO]: pepito270624 joined the game
+[21:28:33] [Server thread/INFO]: pepito270624[/127.105.105.206:59211] logged in with entity id 11 at ([world]2381.3415925308814, 111.0, -551.7674682093663)
+[21:29:55] [Server thread/INFO]: pepito270624 issued server command: /home casita
+[21:30:41] [Server thread/INFO]: pepito270624 issued server command: /home portal
+[21:33:26] [Server thread/INFO]: pepito270624 issued server command: /home casita
+[21:33:34] [Server thread/INFO]: pepito270624 issued server command: /home cas
+[21:46:48] [Server thread/INFO]: pepito270624 lost connection: Disconnected
+[21:46:48] [Server thread/INFO]: pepito270624 left the game
+[21:49:30] [User Authenticator #1/INFO]: UUID of player EmilioZpa is c92c72a5-519a-3b6d-b410-999f90a6f7bb
+[21:49:32] [Server thread/INFO]: [HomePlugin] [STDOUT] Loading home 'base' for player EmilioZpa into cache.
+[21:49:32] [Server thread/WARN]: Nag author(s): '[fuzeblocks]' of 'HomePlugin v0.8.5-main-SNAPSHOT' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[21:49:32] [Server thread/INFO]: [HomePlugin] [STDOUT] Loading home 'end' for player EmilioZpa into cache.
+[21:49:32] [Server thread/INFO]: [HomePlugin] [STDOUT] Loading home 'joaquin' for player EmilioZpa into cache.
+[21:49:32] [Server thread/INFO]: EmilioZpa joined the game
+[21:49:32] [Server thread/INFO]: EmilioZpa[/127.105.105.206:40349] logged in with entity id 3560 at ([world]1609.9490182410805, 70.9375, -1511.0524278271942)
+[21:49:37] [Server thread/INFO]: EmilioZpa was slain by Vex
+[21:50:08] [Server thread/INFO]: EmilioZpa was slain by Vex
+[21:51:08] [User Authenticator #2/INFO]: UUID of player pepito270624 is 8f88a550-05ca-32d4-8251-d545da5f2ce5
+[21:51:11] [Server thread/INFO]: [HomePlugin] [STDOUT] Loading home 'casita' for player pepito270624 into cache.
+[21:51:11] [Server thread/INFO]: [HomePlugin] [STDOUT] Loading home 'portal' for player pepito270624 into cache.
+[21:51:11] [Server thread/INFO]: [HomePlugin] [STDOUT] Loading home 'cas' for player pepito270624 into cache.
+[21:51:11] [Server thread/INFO]: pepito270624 joined the game
+[21:51:11] [Server thread/INFO]: pepito270624[/127.105.105.206:53293] logged in with entity id 4086 at ([world]2527.300000011921, 197.0, -375.30000001192093)
+[21:52:00] [Server thread/INFO]: pepito270624 issued server command: /tpa EmilioZpa
+[21:52:03] [Server thread/INFO]: EmilioZpa issued server command: /tpaccept pepito270624
+[21:52:18] [Server thread/INFO]: Named entity WitherSkeleton['Skeletal Knight'/4455, uuid='0ff3b353-fbb9-465d-af69-7f86078ba622', l='ServerLevel[world]', x=1519.50, y=47.00, z=-1592.50, cpos=[94, -100], tl=583, v=true] died: Skeletal Knight suffocated in a wall
+[21:54:49] [Server thread/INFO]: EmilioZpa was slain by Vindicator
+[21:56:10] [Server thread/WARN]: pepito270624 was kicked for floating too long!
+[21:56:10] [Server thread/INFO]: pepito270624 lost connection: Flying is not enabled on this server
+[21:56:10] [Server thread/INFO]: pepito270624 left the game
+[21:56:16] [User Authenticator #3/INFO]: UUID of player pepito270624 is 8f88a550-05ca-32d4-8251-d545da5f2ce5
+[21:56:18] [Server thread/INFO]: [HomePlugin] [STDOUT] Loading home 'casita' for player pepito270624 into cache.
+[21:56:18] [Server thread/WARN]: Nag author(s): '[fuzeblocks]' of 'HomePlugin v0.8.5-main-SNAPSHOT' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[21:56:18] [Server thread/INFO]: [HomePlugin] [STDOUT] Loading home 'portal' for player pepito270624 into cache.
+[21:56:18] [Server thread/INFO]: [HomePlugin] [STDOUT] Loading home 'cas' for player pepito270624 into cache.
+[21:56:18] [Server thread/INFO]: pepito270624 joined the game
+[21:56:18] [Server thread/INFO]: pepito270624[/127.105.105.206:48181] logged in with entity id 5380 at ([world]1639.5855560929435, 103.84610397459554, -1563.3259588927438)
+[22:01:50] [Server thread/INFO]: pepito270624 issued server command: /tpa EmilioZpa
+[22:01:55] [Server thread/INFO]: EmilioZpa issued server command: /tpaccept pepito270624
+[22:04:23] [Server thread/INFO]: EmilioZpa was slain by Vindicator
+[22:04:38] [Server thread/INFO]: EmilioZpa was slain by Vindicator
+[22:04:55] [Server thread/INFO]: EmilioZpa was slain by Vindicator
+[22:05:53] [Server thread/INFO]: EmilioZpa fell from a high place
+[22:06:26] [Server thread/INFO]: pepito270624 issued server command: /home casita
+[22:06:31] [Server thread/INFO]: EmilioZpa issued server command: /home base
+[22:06:38] [Server thread/INFO]: pepito270624 issued server command: /tpa EmilioZpa
+[22:06:42] [Server thread/INFO]: pepito270624 issued server command: /home cas
+[22:06:42] [Server thread/INFO]: EmilioZpa issued server command: /tpdeny pepito270624
+[22:06:49] [Server thread/INFO]: EmilioZpa issued server command: /tpaccept pepito270624
+[22:06:58] [Server thread/INFO]: EmilioZpa was slain by Zombie
+[22:07:01] [Server thread/INFO]: EmilioZpa issued server command: /home base
+[22:07:07] [Server thread/INFO]: pepito270624 issued server command: /home cas
+[22:07:57] [Server thread/INFO]: pepito270624 issued server command: /home casita
+[22:08:02] [Server thread/INFO]: EmilioZpa was shot by Skeleton
+[22:08:08] [Server thread/INFO]: EmilioZpa issued server command: /home base
+[22:09:13] [Server thread/INFO]: EmilioZpa was slain by Zombie
+[22:09:17] [Server thread/INFO]: EmilioZpa issued server command: /home base
+[22:09:46] [Server thread/INFO]: pepito270624 issued server command: /home cas
+[22:10:16] [Server thread/INFO]: pepito270624 issued server command: /home portal
+[22:11:49] [Server thread/INFO]: pepito270624 issued server command: /home portal
+[22:12:19] [Server thread/INFO]: pepito270624 issued server command: /home portal
+[22:12:44] [Server thread/INFO]: pepito270624 issued server command: /home portal
+[22:13:26] [Server thread/INFO]: pepito270624 issued server command: /home portal
+[22:13:59] [Server thread/INFO]: pepito270624 issued server command: /home portal
+[22:14:04] [Server thread/INFO]: EmilioZpa issued server command: /home base
+[22:14:05] [Server thread/INFO]: EmilioZpa fell from a high place
+[22:14:11] [Server thread/INFO]: EmilioZpa issued server command: /home base
+[22:14:34] [Server thread/INFO]: Named entity WitherSkeleton['Skeletal Knight'/12562, uuid='ceb1e1e8-37c7-4b8d-bad9-7ae575c1e46d', l='ServerLevel[world]', x=1701.50, y=42.00, z=-982.50, cpos=[106, -62], tl=442, v=true] died: Skeletal Knight suffocated in a wall
+[22:14:40] [Server thread/INFO]: pepito270624 issued server command: /home cas
+[22:14:51] [Server thread/INFO]: pepito270624 issued server command: /home casita
+[22:14:56] [Server thread/INFO]: EmilioZpa issued server command: /home end
+[22:15:03] [Server thread/INFO]: pepito270624 issued server command: /home portal
+[22:15:40] [Server thread/INFO]: pepito270624 issued server command: /sethome spaw
+[22:17:01] [Server thread/INFO]: EmilioZpa lost connection: Timed out
+[22:17:01] [Server thread/INFO]: EmilioZpa left the game
+[22:17:54] [User Authenticator #4/INFO]: UUID of player EmilioZpa is c92c72a5-519a-3b6d-b410-999f90a6f7bb
+[22:17:55] [Server thread/INFO]: [HomePlugin] [STDOUT] Loading home 'base' for player EmilioZpa into cache.
+[22:17:55] [Server thread/WARN]: Nag author(s): '[fuzeblocks]' of 'HomePlugin v0.8.5-main-SNAPSHOT' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[22:17:55] [Server thread/INFO]: [HomePlugin] [STDOUT] Loading home 'end' for player EmilioZpa into cache.
+[22:17:55] [Server thread/INFO]: [HomePlugin] [STDOUT] Loading home 'joaquin' for player EmilioZpa into cache.
+[22:17:56] [Server thread/INFO]: EmilioZpa joined the game
+[22:17:56] [Server thread/INFO]: EmilioZpa[/127.105.105.206:43775] logged in with entity id 15505 at ([world_the_end]290.08562828964267, 49.0, 0.5890048262790344)
+[22:18:09] [Server thread/INFO]: Named entity WitherSkeleton['Skeletal Knight'/15431, uuid='828fc8c2-3226-4e30-8795-55bf874d5d1b', l='ServerLevel[world]', x=-304.50, y=78.00, z=346.50, cpos=[-20, 21], tl=447, v=true] died: Skeletal Knight suffocated in a wall
+[22:18:27] [Server thread/INFO]: pepito270624 lost connection: Disconnected
+[22:18:29] [Server thread/INFO]: pepito270624 left the game
+[22:21:16] [User Authenticator #5/INFO]: UUID of player pepito270624 is 8f88a550-05ca-32d4-8251-d545da5f2ce5
+[22:21:17] [Server thread/INFO]: [HomePlugin] [STDOUT] Loading home 'casita' for player pepito270624 into cache.
+[22:21:17] [Server thread/INFO]: [HomePlugin] [STDOUT] Loading home 'portal' for player pepito270624 into cache.
+[22:21:17] [Server thread/INFO]: [HomePlugin] [STDOUT] Loading home 'cas' for player pepito270624 into cache.
+[22:21:17] [Server thread/INFO]: pepito270624 joined the game
+[22:21:17] [Server thread/INFO]: pepito270624[/127.105.105.206:36061] logged in with entity id 17024 at ([world]-472.597437694281, 92.0, 342.66906056064323)
+[22:23:46] [Server thread/INFO]: Named entity WitherSkeleton['Skeletal Knight'/20996, uuid='2368d297-84ca-4648-8d60-423f584aaa52', l='ServerLevel[world]', x=-1837.50, y=106.00, z=336.50, cpos=[-115, 21], tl=450, v=true] died: Skeletal Knight suffocated in a wall
+[22:27:01] [Server thread/INFO]: EmilioZpa issued server command: /home base
+[22:31:35] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: d18602c3-278f-48b8-b9fc-7e376c9ee3ee, mapped to Drowned['Drowned'/32705, uuid='d18602c3-278f-48b8-b9fc-7e376c9ee3ee', l='ServerLevel[world]', x=394.12, y=48.00, z=-490.73, cpos=[24, -31], tl=3258, v=true], can't add Drowned['Drowned'/32715, uuid='d18602c3-278f-48b8-b9fc-7e376c9ee3ee', l='ServerLevel[world]', x=382.50, y=49.00, z=-514.50, cpos=[23, -33], tl=0, v=false]
+[22:34:44] [Server thread/INFO]: pepito270624 lost connection: Disconnected
+[22:34:44] [Server thread/INFO]: pepito270624 left the game
+[22:38:18] [Server thread/INFO]: Named entity WitherSkeleton['Skeletal Knight'/35287, uuid='e863e51a-5728-4de6-98d5-a6f90363f686', l='ServerLevel[world]', x=1660.50, y=-7.00, z=-988.88, cpos=[103, -62], tl=441, v=true] died: Skeletal Knight suffocated in a wall
+[22:38:18] [Server thread/INFO]: Named entity WitherSkeleton['Skeletal Knight'/35289, uuid='dece7563-a5dd-4077-8d9a-070f451e3a75', l='ServerLevel[world]', x=1661.50, y=-7.00, z=-987.50, cpos=[103, -62], tl=441, v=true] died: Skeletal Knight suffocated in a wall
+[22:39:06] [Server thread/INFO]: EmilioZpa lost connection: Timed out
+[22:39:06] [Server thread/INFO]: EmilioZpa left the game
